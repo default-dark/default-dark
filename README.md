@@ -11,7 +11,8 @@ olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    n
 
 <img src="https://pa1.narvii.com/5875/353b16fbe67c6ee31963d04cfc76ac6a66e26337_hq.gif"/>
 
-<p>  status basico meu :) </p>
+<p>fique a vontade apenas relaxe 
+-_-</p>
 
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
