@@ -8,9 +8,12 @@ olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    n
 ![os](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-<p>------------status-----------</p>
+<img src="https://pa1.narvii.com/5875/353b16fbe67c6ee31963d04cfc76ac6a66e26337_hq.gif"/>
+
+<p>  status basico meu :) </p>
 
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lammerburro&show_icons=true&theme=neon)
 
