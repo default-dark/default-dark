@@ -25,4 +25,5 @@ nada mais só isso mesmo kkkkkkk :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&layout=compact&theme=neon)
 
-
+programo no meus momentos livre sé eu não estive programando 
+provalvelmente estou jogando ou dormino zzzZZZ :)
