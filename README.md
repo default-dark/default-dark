@@ -1,8 +1,15 @@
 olá seja bem vindo 👋
 
-olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    nó momento estou aprendendo pelo celular
-                                                                   
-![os](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    nó momento estou aprenidendo pelo celular
+
+<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"/>
+
+
+![os](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+<p>------------status-----------</p>
+
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lammerburro&show_icons=true&theme=neon)
