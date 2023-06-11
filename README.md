@@ -1,7 +1,9 @@
 
 olá seja bem vindo 👋
 
-olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    nó momento estou aprenidendo pelo celular
+olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
+vou deixa meu arquivo programas aqui
+nada mais só isso mesmo kkkkkkk :)
 
 <img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"/>
 
@@ -22,3 +24,5 @@ olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    n
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&hide_progress=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&layout=compact&theme=neon)
+
+
