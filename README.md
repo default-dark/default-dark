@@ -6,3 +6,5 @@ olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    n
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lammerburro&show_icons=true&theme=neon)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&hide_progress=true&theme=neon)
