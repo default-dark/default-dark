@@ -18,3 +18,5 @@ olá sou novato ná area da tecnologia aqui esta o meu projeto simples 👍    n
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lammerburro&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&hide_progress=true&theme=neon)
+
+[![Readme Card]()]()
