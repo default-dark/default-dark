@@ -15,9 +15,10 @@ nada mais só isso mesmo kkkkkkk :)
 
 <p>fique a vontade apenas relaxe
 sente-se no carro da policia 
--_-</p>
+:)</p>
 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/449/398/624.gif"/>
+
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
@@ -43,4 +44,9 @@ editor que eu uso para meu programas que faço no Android
 
 programo no meus momentos livre sé eu não estive programando 
 provalvelmente estou jogando ou dormino zzzZZZ :)
+
+
+<img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
+
+isso tudo tchau tenha um bom dia
 
