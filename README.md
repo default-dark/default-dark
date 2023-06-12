@@ -50,10 +50,21 @@ provalvelmente estou jogando ou dormino zzzZZZ :)
 
 isso tudo tchau tenha um bom dia
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=cota-o-bot&theme=neon"/>
+<a href="https://github.com/lammerburro/Cota-o-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=cota-o-bot&theme=neon"> 
+</a>
 
-<img src ="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=painel-simples&theme=neon"/>
+<a href="https://github.com/lammerburro/painel-simples">
+<img src ="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=painel-simples&theme=neon">
+</a>
 
-
+<a href="https://github.com/lammerburro/Dir-spider">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=dir-spider&theme=neon"/>
+</a>
+
+<a href="https://github.com/lammerburro/Scan-sec">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Scan-sec&theme=neon" />
+</a>
+
+
 
