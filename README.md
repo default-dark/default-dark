@@ -25,5 +25,16 @@ nada mais só isso mesmo kkkkkkk :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&layout=compact&theme=neon)
 
+navegador que eu uso ou já utilizei
+no Android 
+
+<img src ="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+
+editor que eu uso para meu programa Android 
+
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+
 programo no meus momentos livre sé eu não estive programando 
 provalvelmente estou jogando ou dormino zzzZZZ :)
