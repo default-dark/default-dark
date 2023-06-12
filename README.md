@@ -32,7 +32,7 @@ no Android
 
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
 
-editor que eu uso para meu programa Android 
+editor que eu uso para meu programas que faço no Android 
 
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 
