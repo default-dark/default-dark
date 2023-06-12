@@ -14,7 +14,7 @@ nada mais só isso mesmo kkkkkkk :)
 
 
 <p>fique a vontade apenas relaxe
-sente-se no carro da policia 
+sente-se
 :)</p>
 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/449/398/624.gif"/>
