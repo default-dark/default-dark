@@ -11,11 +11,13 @@ nada mais só isso mesmo kkkkkkk :)
 ![os](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-<img src="https://pa1.narvii.com/5875/353b16fbe67c6ee31963d04cfc76ac6a66e26337_hq.gif"/>
 
-<p>fique a vontade apenas relaxe 
+
+<p>fique a vontade apenas relaxe
+sente-se no carro da policia 
 -_-</p>
 
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/449/398/624.gif"/>
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
