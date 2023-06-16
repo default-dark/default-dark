@@ -68,6 +68,6 @@ isso tudo tchau tenha um bom dia
 
 <a
 href="https://github.com/lammerburro/android-api">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Scan-sec&theme=dark"/>
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Scan-sec&theme=neon"/>
 </a>
 
