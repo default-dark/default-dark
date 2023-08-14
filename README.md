@@ -78,7 +78,7 @@ href="https://github.com/lammerburro/android-api">
 
 <a 
 href="https://github.com/lammerburro/Jonkenpo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=jokenpo&theme=neon"/> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Jonkenpo&theme=neon"/> 
 </a>
 
 
