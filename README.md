@@ -48,7 +48,7 @@ editor que eu uso para meu programas que faço no Android
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&theme=blue-green"/>
 
 programo no meus momentos livre sé eu não estive programando 
-provalvelmente estou jogando ou dormino zzzZZZ :)
+provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas por curiosidade nada mais...
 
 
 <img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
