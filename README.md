@@ -1,7 +1,7 @@
 <img src= "https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966" />
 
 
-<img src= "https://i.pinimg.com/originals/38/c4/e7/38c4e7cf72dd9f673aff77c1a2097192.gif" /> 
+ 
 olá seja bem vindo 👋
 
 olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
@@ -57,6 +57,8 @@ provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas po
 <img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
 
 isso tudo tchau tenha um bom dia
+
+<img src= "https://i.pinimg.com/originals/38/c4/e7/38c4e7cf72dd9f673aff77c1a2097192.gif" />
 
 <a href="https://github.com/lammerburro/Cota-o-bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=cota-o-bot&theme=neon"> 
