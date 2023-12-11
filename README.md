@@ -1,11 +1,14 @@
-<img src= "https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/" /> 
+<img src= "https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966" />
+
+
+<img src= "https://i.pinimg.com/originals/38/c4/e7/38c4e7cf72dd9f673aff77c1a2097192.gif" /> 
 olá seja bem vindo 👋
 
 olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
 vou deixa meu arquivo programas aqui
 nada mais só isso mesmo kkkkkkk :)
 
-<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"/>
+<img src="https://i.pinimg.com/originals/dc/4d/b1/dc4db1c340e223ef56883a33df40e00b.gif"/>
 
 
 ![os](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
