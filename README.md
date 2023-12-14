@@ -75,11 +75,6 @@ isso tudo tchau tenha um bom dia
 <a href="https://github.com/lammerburro/Scan-sec">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Scan-sec&theme=neon" />
 </a> 
-
-<a
-href="https://github.com/lammerburro/android-api">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=android-api&theme=neon"/>
-</a> 
 <a 
 href="https://github.com/lammerburro/Ncrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ncrack&theme=neon"/> 
