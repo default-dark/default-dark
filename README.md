@@ -1,8 +1,4 @@
-<img src= "https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966" />
-
-
- 
-olá seja bem vindo 👋
+ olá seja bem vindo 👋
 
 olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
 vou deixa meu arquivo programas aqui
