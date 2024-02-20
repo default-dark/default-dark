@@ -54,7 +54,6 @@ provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas po
 
 isso tudo tchau tenha um bom dia
 
-<img src= "https://i.pinimg.com/originals/38/c4/e7/38c4e7cf72dd9f673aff77c1a2097192.gif" />
 
 <a href="https://github.com/lammerburro/Cota-o-bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=cota-o-bot&theme=neon"> 
@@ -74,6 +73,8 @@ isso tudo tchau tenha um bom dia
 <a 
 href="https://github.com/lammerburro/Ncrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ncrack&theme=neon"/> 
-</a>
+</a> 
+<a href="https://github.com/lammerburro/olho">
+<img src="
 
 
