@@ -74,7 +74,7 @@ isso tudo tchau tenha um bom dia
 href="https://github.com/lammerburro/Ncrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ncrack&theme=neon"/> 
 </a> 
+
 <a href="https://github.com/lammerburro/olho">
-<img src="
-
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ncrack&theme=neon"/> 
+</a> 
