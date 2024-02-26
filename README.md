@@ -76,5 +76,5 @@ href="https://github.com/lammerburro/Ncrack">
 </a> 
 
 <a href="https://github.com/lammerburro/olho">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ncrack&theme=neon"/> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=olho&theme=neon"/> 
 </a> 
