@@ -26,11 +26,11 @@ tentando aprender
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lammerburro&show_icons=true&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=default-dark&show_icons=true&theme=neon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&hide_progress=true&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&layout=compact&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=neon)
 
 navegador que eu uso ou já utilizei
 no Android 
@@ -56,25 +56,25 @@ isso tudo tchau tenha um bom dia
 
 
 <a href="https://github.com/lammerburro/Ipinfo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ipinfo&theme=neon"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
 </a>
 
 <a href="https://github.com/lammerburro/painel-simples">
-<img src ="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=painel-simples&theme=neon">
+<img src ="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=painel-simples&theme=neon">
 </a>
 
 <a href="https://github.com/lammerburro/Dir-spider">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=dir-spider&theme=neon"/>
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=dir-spider&theme=neon"/>
 </a>
 
 <a href="https://github.com/lammerburro/Scan-sec">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Scan-sec&theme=neon" />
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Scan-sec&theme=neon" />
 </a> 
 <a 
 href="https://github.com/lammerburro/Ncrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=Ncrack&theme=neon"/> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ncrack&theme=neon"/> 
 </a> 
 
 <a href="https://github.com/lammerburro/olho">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lammerburro&repo=olho&theme=neon"/> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=olho&theme=neon"/> 
 </a> 
