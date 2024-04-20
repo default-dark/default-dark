@@ -44,7 +44,7 @@ editor que eu uso para meu programas que faço no Android
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lammerburro&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=blue-green"/>
 
 programo no meus momentos livre sé eu não estive programando 
 provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas por curiosidade nada mais...
