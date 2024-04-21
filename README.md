@@ -4,16 +4,15 @@ olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
 vou deixa meu arquivo programas aqui
 nada mais só isso mesmo kkkkk
 
+<p color=red>fique a vontade apenas relaxe
+sente-se
+:)</p>
+
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
 
 
-<p>fique a vontade apenas relaxe
-sente-se
-:)</p>
-
-#tentando aprender 
-
+#tentando aprender
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
