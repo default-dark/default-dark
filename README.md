@@ -4,7 +4,7 @@ olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
 vou deixa meu arquivo programas aqui
 nada mais só isso mesmo kkkkk
 
-<img src="https://cdn.dribbble.com/users/873891/screenshots/7762266/media/bda8074dd728423095c5be99819d4997.gif"/>
+<img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
 
 
