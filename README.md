@@ -2,9 +2,9 @@
 
 olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
 vou deixa meu arquivo programas aqui
-nada mais só isso mesmo kkkkkkk :)
+nada mais só isso mesmo kkkkk
 
-<img src="https://i.pinimg.com/originals/dc/4d/b1/dc4db1c340e223ef56883a33df40e00b.gif"/>
+<img src="https://cdn.dribbble.com/users/873891/screenshots/7762266/media/bda8074dd728423095c5be99819d4997.gif"/>
 
 
 
