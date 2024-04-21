@@ -27,7 +27,7 @@ tentando aprender
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=cc=000000&tc=4D4DFF&ic=D22730&bc=D22730)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=dark-red)
 
 navegador que eu uso ou já utilizei
 no Android 
