@@ -12,7 +12,7 @@ nada mais só isso mesmo kkkkk
 sente-se
 :)</p>
 
-tentando aprender 
+##tentando aprender 
 
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![skills](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white>)
