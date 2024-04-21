@@ -25,9 +25,9 @@ tentando aprender
 
 <img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=cc=000000&tc=4D4DFF&ic=D22730&bc=D22730)
 
 navegador que eu uso ou já utilizei
 no Android 
