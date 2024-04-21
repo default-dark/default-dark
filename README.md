@@ -7,7 +7,7 @@ nada mais só isso mesmo kkkkkkk :)
 <img src="https://i.pinimg.com/originals/dc/4d/b1/dc4db1c340e223ef56883a33df40e00b.gif"/>
 
 
-![os](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
 
 
 
