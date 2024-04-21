@@ -22,7 +22,7 @@ tentando aprender
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=default-dark&theme=neon)
+<img src="https://github-readme-stats.vercel.app/api?username=default-dark&theme=neon"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon)
 
@@ -51,8 +51,6 @@ provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas po
 isso tudo tchau tenha um bom dia
 
 
-<img src= "https://github-stats-alpha.vercel.app/api/?username=default-dark&theme=one-dark"
- />
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
 </a>
