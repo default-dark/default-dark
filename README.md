@@ -51,7 +51,8 @@ provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas po
 isso tudo tchau tenha um bom dia
 
 
-<img src= "https://github-stats-alpha.vercel.app/api/?username=default-dark&theme=neon"/>
+<img src= "https://github-stats-alpha.vercel.app/api/?username=default-dark&repo=default-dark&theme=neon"
+ />
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
 </a>
