@@ -27,7 +27,7 @@ tentando aprender
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=dark-red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=neon)
 
 navegador que eu uso ou já utilizei
 no Android 
@@ -53,7 +53,7 @@ isso tudo tchau tenha um bom dia
 
 
 <a href="https://github.com/lammerburro/Ipinfo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730"> 
 </a>
 
 <a href="https://github.com/lammerburro/painel-simples">
