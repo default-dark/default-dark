@@ -12,8 +12,6 @@ nada mais só isso mesmo kkkkk
 sente-se
 :)</p>
 
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/449/398/624.gif"/>
-
 tentando aprender 
 
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
