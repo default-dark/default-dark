@@ -22,8 +22,9 @@ tentando aprender
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=04000&tc=7759b5&ic=9c6bff&bc=402773"/>
-
+<a
+<img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&theme=dark">
+</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=neon)
