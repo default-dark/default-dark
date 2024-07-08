@@ -1,5 +1,4 @@
-<img
-src="https://i.pinimg.com/originals/fb/3d/b7/fb3db76adcaacd8599aaa2c0bafc0156.gif"/>
+
  olá seja bem vindo 👋
 
 olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
@@ -9,8 +8,6 @@ nada mais só isso mesmo kkkkk
 <p>fique a vontade apenas relaxe
 sente-se
 :)</p>
-<img
-src="https://i.pinimg.com/originals/fb/3d/b7/fb3db76adcaacd8599aaa2c0bafc0156.gif"/>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
@@ -53,6 +50,7 @@ provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas po
 
 isso tudo tchau tenha um bom dia
 
+<img src="https://pt.bloggif.com/tmp/593a9abc0cbc5c681f46c05f543222b3/text.gif?1720477041"/>
 
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
