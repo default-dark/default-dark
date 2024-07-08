@@ -1,3 +1,4 @@
+<img src="https://pt.bloggif.com/tmp/25ac7258f5f8123efee4cf66de18a08e/text.gif?1720477184"/>
 
  olá seja bem vindo 👋
 
@@ -49,8 +50,6 @@ provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas po
 <img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
 
 isso tudo tchau tenha um bom dia
-
-<img src="https://pt.bloggif.com/tmp/593a9abc0cbc5c681f46c05f543222b3/text.gif?1720477041"/>
 
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
