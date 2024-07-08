@@ -10,7 +10,7 @@ nada mais só isso mesmo kkkkk
 sente-se
 :)</p>
 <img src="https://i.pinimg.com/originals/48/e8/fe/48e8fedc1186c9ca6714cf8070861396.gif"/>
-/a>
+/>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
