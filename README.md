@@ -1,6 +1,5 @@
 <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"/>
 <img src="https://pt.bloggif.com/tmp/25ac7258f5f8123efee4cf66de18a08e/text.gif?1720477184"/>
-#
 
  olá seja bem vindo 👋
 
@@ -11,7 +10,6 @@ nada mais só isso mesmo kkkkk
 <p>fique a vontade apenas relaxe
 sente-se
 :)</p>
-#
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
