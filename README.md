@@ -1,3 +1,5 @@
+<img
+src="https://i.pinimg.com/originals/fb/3d/b7/fb3db76adcaacd8599aaa2c0bafc0156.gif"/>
  olá seja bem vindo 👋
 
 olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
@@ -7,6 +9,8 @@ nada mais só isso mesmo kkkkk
 <p>fique a vontade apenas relaxe
 sente-se
 :)</p>
+<img
+src="https://i.pinimg.com/originals/fb/3d/b7/fb3db76adcaacd8599aaa2c0bafc0156.gif"/>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
