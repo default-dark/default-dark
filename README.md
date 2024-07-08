@@ -1,4 +1,5 @@
 <img src="https://pt.bloggif.com/tmp/25ac7258f5f8123efee4cf66de18a08e/text.gif?1720477184"/>
+<img src="https://i.pinimg.com/originals/48/e8/fe/48e8fedc1186c9ca6714cf8070861396.gif"/>
 
  olá seja bem vindo 👋
 
