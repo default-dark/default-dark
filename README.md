@@ -1,5 +1,4 @@
 <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"/>
-<img src="https://pt.bloggif.com/tmp/25ac7258f5f8123efee4cf66de18a08e/text.gif?1720477184"/>
 
  olá seja bem vindo 👋
 
