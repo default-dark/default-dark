@@ -32,8 +32,10 @@ navegador que eu uso ou já utilizei
 no Android 
 
 <img src ="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+<a 
+href="https://www.torproject.org/"/>
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/> 
+<a/>
 
 editor que eu uso para meu programas que faço no Android 
 
