@@ -20,11 +20,24 @@ href="https://www.python.org/"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
+<a 
+href="https://linuxhandbook.com/bash/"/>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
  />
+ </a>
+<a
+href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-de-html-para-iniciantes/"/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a href="https://www.freecodecamp.org/portuguese/news/manual-do-css-um-guia-pratico-de-css-para-desenvolvedores/"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+
+
+<a href="https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</a>
 
 
 <img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730">
@@ -36,15 +49,21 @@ href="https://www.python.org/"/>
 navegador que eu uso ou já utilizei
 no Android 
 
-<img src ="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+<a href="https://www.google.com.br/"/>
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+</a>
+
 <a 
 href="https://www.torproject.org/"/>
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/> 
-<a/>
+</a>
 
 editor que eu uso para meu programas que faço no Android 
 
+
+<a href="https://neovim.io/"/>
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+</a>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=blue-green"/>
