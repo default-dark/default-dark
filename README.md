@@ -2,12 +2,12 @@
 
  olá seja bem vindo 👋
 
-olá, sou novato ná area da tecnologia aqui esta o meu projeto simples 👍
-vou deixa meu arquivo programas aqui
+olá, sou novato
+ná area da tecnologia👍
+vou deixa meus arquivo programas aqui
 nada mais só isso mesmo kkkkk
 
-<p>fique a vontade apenas relaxe
-sente-se
+<p>fique a vontade para olhar minha tralhas apenas relaxe sente-se
 :)</p>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
@@ -68,8 +68,8 @@ editor que eu uso para meu programas que faço no Android
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=blue-green"/>
 
-programo no meus momentos livre sé eu não estive programando 
-provalvelmente estou jogando ou dormino ou trabalhando zzzZZZ :) faço apenas por curiosidade nada mais...
+programo no meus momentos livre se eu não estive programando 
+provalvelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais... até  porque não, tenho PC e Nei nootbook. mais isso 👍
 
 
 <img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
