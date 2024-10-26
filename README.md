@@ -4,11 +4,8 @@
 
 olá, sou novato
 ná area da tecnologia👍
-vou deixa meus arquivo programas aqui
+vou deixar meus arquivos e programas aqui
 nada mais só isso mesmo kkkkk
-
-<p>fique a vontade para olhar minha tralhas apenas relaxe sente-se
-:)</p>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
@@ -68,13 +65,12 @@ editor que eu uso para meu programas que faço no Android
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=blue-green"/>
 
-programo no meus momentos livre se eu não estive programando 
-provalvelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais... até  porque não, tenho PC e Nei nootbook. mais isso 👍
-
+programo no meus momentos livre, sê eu não estivé programando 
+provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais... até  porque não tenho PC e Nei nootbook
 
 <img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
 
-isso tudo tchau tenha um bom dia
+isso é tudo tchau tenha um bom dia
 
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
