@@ -1,5 +1,3 @@
-<img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"/>
-
  olá seja bem vindo 👋
 
 olá, sou novato
@@ -62,9 +60,6 @@ editor que eu uso para meu programas que faço no Android
 
 programo no meus momentos livre, sê eu não estivé programando 
 provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais... até  porque não tenho PC e Nei nootbook
-
-<img src="https://media.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif"/>
-
 isso é tudo tchau tenha um bom dia
 
 <a href="https://github.com/lammerburro/Ipinfo">
