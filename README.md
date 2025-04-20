@@ -38,7 +38,7 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 
 navegador
 
-<a href="https://www.google.com.br/"/>
+<a href="https://www.mozilla.org/pt-BR/firefox/new/?redirect_source=firefox-com"/>
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=orange"/>
 </a>
 
