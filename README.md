@@ -62,15 +62,12 @@ provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosid
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
 </a>
-
 <a href="https://github.com/lammerburro/painel-simples">
 <img src ="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=painel-simples&theme=neon">
 </a>
-
 <a href="https://github.com/lammerburro/Dir-spider">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=dir-spider&theme=neon"/>
 </a>
-
 <a href="https://github.com/lammerburro/Scan-sec">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Scan-sec&theme=neon" />
 </a> 
@@ -78,7 +75,6 @@ provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosid
 href="https://github.com/lammerburro/Ncrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ncrack&theme=neon"/> 
 </a> 
-
 <a href="https://github.com/lammerburro/olho">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=olho&theme=neon"/> 
 </a> 
