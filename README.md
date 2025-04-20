@@ -54,7 +54,7 @@ editor
 </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=neon"/>
 
 programo no meus momentos livre, sê eu não estivé programando 
 provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais...
