@@ -12,21 +12,21 @@ tentando aprender
 
 <a 
 href="https://www.python.org/"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 </a>
 
 <a
 href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-de-html-para-iniciantes/"/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange"/>
 </a>
 
 <a href="https://www.freecodecamp.org/portuguese/news/manual-do-css-um-guia-pratico-de-css-para-desenvolvedores/"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-black&style=for-the-badge&logo=css3&logoColor=blue"/>
 </a>
 
 
 <a href="https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </a>
 
 
@@ -36,23 +36,21 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=neon)
 
-navegador que eu uso ou já utilizei
-no Android 
+navegador
 
 <a href="https://www.google.com.br/"/>
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=orange"/>
 </a>
 
 <a 
 href="https://www.torproject.org/"/>
-<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tor_Browser-black?style=for-the-badge&logo=Tor-Browser&logoColor=purple"/> 
 </a>
 
-editor que eu uso para meu programas que faço no Android 
+editor
 
-
-<a href="https://neovim.io/"/>
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<a href="https://www.vim.org/download.php"/>
+<img src="https://img.shields.io/badge/Vim-black.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
 </a>
 
 
