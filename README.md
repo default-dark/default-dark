@@ -56,8 +56,7 @@ editor
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=neon"/>
 
-programo no meus momentos livre, sê eu não estivé programando 
-provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais...
+programo no meus momentos livre, se eu não estiver programando provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais
 
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
