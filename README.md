@@ -21,7 +21,7 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 </a>
 
 <a href="https://www.freecodecamp.org/portuguese/news/manual-do-css-um-guia-pratico-de-css-para-desenvolvedores/"/>
-<img src="https://img.shields.io/badge/CSS-black&style=for-the-badge&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=blue"/>
 </a>
 
 
