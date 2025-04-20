@@ -59,8 +59,7 @@ editor que eu uso para meu programas que faço no Android
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=blue-green"/>
 
 programo no meus momentos livre, sê eu não estivé programando 
-provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais... até  porque não tenho PC e Nei nootbook
-isso é tudo tchau tenha um bom dia
+provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais...
 
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
