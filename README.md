@@ -4,6 +4,7 @@ olá, sou novato
 ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
 nada mais só isso mesmo kkkkk
+<img src="https://tryhackme.com/img/badges/linux.svg"/>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
