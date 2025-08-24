@@ -5,7 +5,6 @@ ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
 nada mais só isso mesmo kkkkk
 
-<img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/defaultdark-1756077461861.png"/>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
@@ -59,6 +58,10 @@ editor
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=neon"/>
 
 programo no meus momentos livre, se eu não estiver programando provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais
+
+teste de habilidades
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/defaultdark.png?update=0"/>
 
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
