@@ -1,15 +1,15 @@
- olá seja bem vindo 👋
+<p>olá seja bem vindo 👋
 
 olá, sou novato
 ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
 nada mais só isso mesmo kkkkk
-
+<p>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
 
-tentando aprender
+<h2>tentando aprender</h2>
 
 <a 
 href="https://www.python.org/"/>
@@ -37,7 +37,7 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=neon)
 
-navegador
+<h2>navegador</h2>
 
 <a href="https://www.mozilla.org/pt-BR/firefox/new/?redirect_source=firefox-com"/>
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=orange"/>
@@ -48,7 +48,7 @@ href="https://www.torproject.org/"/>
 <img src="https://img.shields.io/badge/Tor_Browser-black?style=for-the-badge&logo=Tor-Browser&logoColor=purple"/> 
 </a>
 
-editor
+<h2>editor</h2>
 
 <a href="https://www.vim.org/download.php"/>
 <img src="https://img.shields.io/badge/Vim-black.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
@@ -59,11 +59,8 @@ editor
 
 programo no meus momentos livre, se eu não estiver programando provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais
 
-teste de habilidades
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/defaultdark.png?update=0"/>
-
-<h2 color="red">teste scripts</h2>
+<h2>teste scripts</h2>
 <a href="https://github.com/lammerburro/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
 </a>
