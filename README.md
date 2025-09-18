@@ -30,12 +30,7 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </a>
 
-
-<img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730"/>
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&layout=compact&theme=neon)
 
 <h2>navegador</h2>
 
@@ -54,8 +49,6 @@ href="https://www.torproject.org/"/>
 <img src="https://img.shields.io/badge/Vim-black.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
 </a>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&theme=neon"/>
 
 programo no meus momentos livre, se eu não estiver programando provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais
 
