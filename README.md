@@ -31,7 +31,7 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 </a>
 
 
-<img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730">
+<img src="https://github-stats-alpha.vercel.app/api/?username=default-dark&cc=000000&tc=4D4DFF&ic=D22730&bc=D22730"/>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=neon"/>
 
@@ -61,22 +61,22 @@ programo no meus momentos livre, se eu não estiver programando provavelmente es
 
 
 <h2>teste scripts</h2>
-<a href="https://github.com/lammerburro/Ipinfo">
+<a href="https://github.com/default-dark/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
 </a>
-<a href="https://github.com/lammerburro/painel-simples">
+<a href="https://github.com/default-dark/painel-simples">
 <img src ="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=painel-simples&theme=neon">
 </a>
-<a href="https://github.com/lammerburro/Dir-spider">
+<a href="https://github.com/default-dark/Dir-spider">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=dir-spider&theme=neon"/>
 </a>
-<a href="https://github.com/lammerburro/Scan-sec">
+<a href="https://github.com/default-dark/Scan-sec">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Scan-sec&theme=neon" />
 </a> 
 <a 
-href="https://github.com/lammerburro/Ncrack">
+href="https://github.com/default-dark/Ncrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ncrack&theme=neon"/> 
 </a> 
-<a href="https://github.com/lammerburro/olho">
+<a href="https://github.com/default-dark/olho">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=olho&theme=neon"/> 
 </a> 
