@@ -11,13 +11,11 @@ nada mais só isso mesmo kkkkk
 
 <h2>tentando aprender</h2>
 
-<a 
-href="https://www.python.org/"/>
+<a href="https://www.python.org/"/>
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
 </a>
 
-<a
-href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-de-html-para-iniciantes/"/>
+<a href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-de-html-para-iniciantes/"/>
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange"/>
 </a>
 
@@ -39,8 +37,7 @@ href="https://www.freecodecamp.org/portuguese/news/manual-de-html-aprendizagem-d
 <img src="https://img.shields.io/badge/firefox-black?style=for-the-badge&logo=firefox&logoColor=orange"/>
 </a>
 
-<a 
-href="https://www.torproject.org/"/>
+<a href="https://www.torproject.org/"/>
 <img src="https://img.shields.io/badge/Tor_Browser-black?style=for-the-badge&logo=Tor-Browser&logoColor=purple"/> 
 </a>
 
@@ -57,20 +54,24 @@ programo no meus momentos livre, se eu não estiver programando provavelmente es
 <h2>teste scripts</h2>
 <a href="https://github.com/default-dark/Ipinfo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
-</a>
+</a> 
+
 <a href="https://github.com/default-dark/painel-simples">
 <img src ="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=painel-simples&theme=neon">
 </a>
+
 <a href="https://github.com/default-dark/Dir-spider">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=dir-spider&theme=neon"/>
 </a>
+
 <a href="https://github.com/default-dark/Scan-sec">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Scan-sec&theme=neon" />
-</a> 
-<a 
-href="https://github.com/default-dark/Ncrack">
+</a>
+
+<a href="https://github.com/default-dark/Ncrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ncrack&theme=neon"/> 
-</a> 
+</a>
+
 <a href="https://github.com/default-dark/olho">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=olho&theme=neon"/> 
 </a> 
