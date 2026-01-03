@@ -47,7 +47,7 @@ href="https://www.torproject.org/"/>
 <h2>editor</h2>
 
 <a href="https://www.vim.org/download.php"/>
-<img src="https://img.shields.io/badge/Vim-black.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
+<img    src="https://img.shields.io/badge/Vim-black.svg?&style=for-the-badge&logo=vim&logoColor=green"/>
 </a>
 
 
