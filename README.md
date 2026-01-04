@@ -51,27 +51,3 @@ nada mais só isso mesmo kkkkk
 programo no meus momentos livre, se eu não estiver programando provavelmente estou jogando ou dormino ou trabalhando ,faço apenas por curiosidade nada mais
 
 
-<h2>teste scripts</h2>
-<a href="https://github.com/default-dark/Ipinfo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ipinfo&theme=neon"> 
-</a> 
-
-<a href="https://github.com/default-dark/painel-simples">
-<img src ="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=painel-simples&theme=neon">
-</a>
-
-<a href="https://github.com/default-dark/Dir-spider">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=dir-spider&theme=neon"/>
-</a>
-
-<a href="https://github.com/default-dark/Scan-sec">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Scan-sec&theme=neon" />
-</a>
-
-<a href="https://github.com/default-dark/Ncrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=Ncrack&theme=neon"/> 
-</a>
-
-<a href="https://github.com/default-dark/olho">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=default-dark&repo=olho&theme=neon"/> 
-</a> 
