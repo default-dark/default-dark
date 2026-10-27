@@ -30,8 +30,7 @@ nada mais só isso mesmo
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </a>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark
-&hide_progress=true&theme=neon"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=default-dark&hide_progress=true&theme=blue_navy"/>
 
 <h2>navegador</h2>
 
