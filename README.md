@@ -2,12 +2,12 @@
 
 <img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=blue_navy"/> 
 
-<p>
+<h2>
 olá, sou novato
 ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
 nada mais só isso mesmo kkkkk
-</p>
+</h2>
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
 
