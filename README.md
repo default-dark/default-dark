@@ -1,4 +1,4 @@
-<h1 color=red > olá seja bem vindo 👋 </h1>
+<h1 color:red > olá seja bem vindo 👋 </h1>
 
 <img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=blue_navy"/> 
 
