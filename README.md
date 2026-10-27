@@ -1,11 +1,11 @@
-<img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=tokyonight"/> 
-<p>olá seja bem vindo 👋
-  
+olá seja bem vindo 👋
+
+<img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=blue_navy"/> 
+
 olá, sou novato
 ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
 nada mais só isso mesmo kkkkk
-<p>
 
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
