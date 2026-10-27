@@ -1,5 +1,4 @@
-<p>
-olá seja bem vindo 👋
+<p>olá seja bem vindo 👋
   
 olá, sou novato
 ná area da tecnologia👍
