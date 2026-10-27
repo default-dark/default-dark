@@ -1,13 +1,13 @@
-<h1> olá seja bem vindo 👋 </h1>
+<h1 color=red > olá seja bem vindo 👋 </h1>
 
 <img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=blue_navy"/> 
 
-<h2>
+
 olá, sou novato
 ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
-nada mais só isso mesmo kkkkk
-</h2>
+nada mais só isso mesmo 
+
 <img src="21fccc4b6b4f62182f7b4c03a85dfc42.gif"/>
 
 
