@@ -1,8 +1,6 @@
-<p>olá seja bem vindo 👋
-
-
-<img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=tokyonight"/> 
-
+<p>
+olá seja bem vindo 👋
+  
 olá, sou novato
 ná area da tecnologia👍
 vou deixar meus arquivos e programas aqui
