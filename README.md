@@ -1,4 +1,4 @@
-< img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=tokyonight"/> 
+<img src="https://github-stats-extended.vercel.app/api?username=default-dark&theme=tokyonight"/> 
 <p>olá seja bem vindo 👋
   
 olá, sou novato
